@@ -1,0 +1,19 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>icons/search.png</file>
+    <file>icons/menu.png</file>
+    <file>icons/exit.png</file>
+    <file>icons/logo2.png</file>
+    <file>icons/cinema_logo.png</file>
+    <file>icons/add_movie.png</file>
+    <file>icons/add_person.png</file>
+    <file>icons/customer.png</file>
+    <file>icons/movie.png</file>
+    <file>icons/movies.png</file>
+    <file>icons/signout1.png</file>
+    <file>icons/signout2.png</file>
+    <file>icons/signoutsmall1.png</file>
+    <file>icons/signoutsmall2.png</file>
+    <file>icons/user.png</file>
+  </qresource>
+</RCC>
